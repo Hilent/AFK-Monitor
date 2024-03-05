@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EMAIL_SENDER/1.0.0": {
+        "runtime": {
+          "EMAIL_SENDER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EMAIL_SENDER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
