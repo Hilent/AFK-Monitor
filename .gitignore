@@ -394,6 +394,13 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+*.resx
+*.user
+
+# Specific Files
+Main.designer.cs
+Login.designer.cs
+
 
 # JetBrains Rider
 *.sln.iml
